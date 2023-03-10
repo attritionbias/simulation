@@ -7,3 +7,5 @@ For running the simulation, please save all files in a folder on you local coump
 Next, adjust the paths in the file Simulation_Master.do accordingly.
 
 Last, please run the file Simulation_Master.do in Stata.
+
+The data generating process and the results are described in the document description_simulation.pdf
